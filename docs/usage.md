@@ -19,3 +19,4 @@ Notes and usage details for gh-actions-lock.
 - clarify the setup steps
 - fix a small wording issue
 - add a note about the defaults
+- fix a small wording issue
